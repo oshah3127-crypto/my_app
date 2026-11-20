@@ -15,4 +15,4 @@ if login:
     st.write(f"Your gender is {Gender}")
     st.divider()
 #st.image(r"D:\odu\videos\owais data\warwan pics n videous\nature.jpg")
-st.image(os.path.join(os.getcwd(),"static","oppenheimer.jpg"))
+st.image(os.path.join(os.getcwd(),"static","salmon.jpeg"))
